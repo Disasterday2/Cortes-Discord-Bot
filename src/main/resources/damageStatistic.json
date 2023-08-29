@@ -1,0 +1,317 @@
+[
+  {
+    "_id": "60379c118de6d55ce343a8b2",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "CHASENIGHT",
+    "damage": 154078355955663,
+    "createdAt": "2021-02-25T12:46:09.322Z"
+  },
+  {
+    "_id": "60379c118de6d55ce343a8b3",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "CHASEDAY",
+    "damage": 102718903970442,
+    "createdAt": "2021-02-25T12:46:09.352Z"
+  },
+  {
+    "_id": "60379c118de6d55ce343a8b4",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "BUFFHEAD",
+    "damage": 102718903970442,
+    "createdAt": "2021-02-25T12:46:09.380Z"
+  },
+  {
+    "_id": "603ba265648fa1bbc89c83c4",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "HU5K",
+    "damage": 171605784170004,
+    "createdAt": "2021-02-28T14:02:13.449Z"
+  },
+  {
+    "_id": "603ba265648fa1bbc89c83c5",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "NEFIRE",
+    "damage": 114403856113336,
+    "createdAt": "2021-02-28T14:02:13.483Z"
+  },
+  {
+    "_id": "603ba265648fa1bbc89c83c6",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "LSUCREL",
+    "damage": 114403856113336,
+    "createdAt": "2021-02-28T14:02:13.519Z"
+  },
+  {
+    "_id": "603bc4a0648fa1bbc89c87a6",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "POTPOURRI",
+    "damage": 123674192824731,
+    "createdAt": "2021-02-28T16:28:16.855Z"
+  },
+  {
+    "_id": "603bc4a0648fa1bbc89c87a7",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "KURU252",
+    "damage": 123674192824731,
+    "createdAt": "2021-02-28T16:28:16.883Z"
+  },
+  {
+    "_id": "603bc4a0648fa1bbc89c87a8",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "FAINTSMILE",
+    "damage": 41224730941576,
+    "createdAt": "2021-02-28T16:28:16.910Z"
+  },
+  {
+    "_id": "603be5bf648fa1bbc89c8b67",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "YOPII",
+    "damage": 171605784170004,
+    "createdAt": "2021-02-28T18:49:35.141Z"
+  },
+  {
+    "_id": "603be5bf648fa1bbc89c8b68",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "SHATAHL",
+    "damage": 57201928056668,
+    "createdAt": "2021-02-28T18:49:35.169Z"
+  },
+  {
+    "_id": "603be5cc648fa1bbc89c8b6e",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "FLUFFYWOLF",
+    "damage": 171605784170004,
+    "createdAt": "2021-02-28T18:49:48.697Z"
+  },
+  {
+    "_id": "603c1cb9648fa1bbc89c91c4",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "RADIAL",
+    "damage": 85802892085002,
+    "createdAt": "2021-02-28T22:44:09.771Z"
+  },
+  {
+    "_id": "603c1cb9648fa1bbc89c91c5",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "COFFEECUPZ",
+    "damage": 85802892085002,
+    "createdAt": "2021-02-28T22:44:09.797Z"
+  },
+  {
+    "_id": "603c1cb9648fa1bbc89c91c6",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "LORIYAGAMI",
+    "damage": 28607776108767,
+    "createdAt": "2021-02-28T22:44:09.818Z"
+  },
+  {
+    "_id": "603ce4dd648fa1bbc89ca862",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "HENSHIN321",
+    "damage": 171605784170004,
+    "createdAt": "2021-03-01T12:58:05.379Z"
+  },
+  {
+    "_id": "603ce4dd648fa1bbc89ca863",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "NELLAN",
+    "damage": 171605784170004,
+    "createdAt": "2021-03-01T12:58:05.405Z"
+  },
+  {
+    "_id": "603ce4dd648fa1bbc89ca864",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "KIRA6996",
+    "damage": 30330392169812,
+    "createdAt": "2021-03-01T12:58:05.468Z"
+  },
+  {
+    "_id": "603ce4dd648fa1bbc89ca865",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "MIKASHISAN",
+    "damage": 30330392169812,
+    "createdAt": "2021-03-01T12:58:05.488Z"
+  },
+  {
+    "_id": "603ce4dd648fa1bbc89ca866",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "HAVENITE",
+    "damage": 30295419372939,
+    "createdAt": "2021-03-01T12:58:05.509Z"
+  },
+  {
+    "_id": "603ce4dd648fa1bbc89ca867",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "BITRE",
+    "damage": 30280969011151,
+    "createdAt": "2021-03-01T12:58:05.530Z"
+  },
+  {
+    "_id": "603ce4dd648fa1bbc89ca868",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "THUMPER",
+    "damage": 30280969011151,
+    "createdAt": "2021-03-01T12:58:05.552Z"
+  },
+  {
+    "_id": "603ce4dd648fa1bbc89ca869",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "CHAYSTAR",
+    "damage": 27767707990243,
+    "createdAt": "2021-03-01T12:58:05.596Z"
+  },
+  {
+    "_id": "603ce4dd648fa1bbc89ca86a",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "NOTAXEL",
+    "damage": 27767707990243,
+    "createdAt": "2021-03-01T12:58:05.614Z"
+  },
+  {
+    "_id": "603ce4dd648fa1bbc89ca86b",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "ARVIANNE",
+    "damage": 20196946248626,
+    "createdAt": "2021-03-01T12:58:05.634Z"
+  },
+  {
+    "_id": "603ce4dd648fa1bbc89ca86c",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "DOYOU",
+    "damage": 20196946248626,
+    "createdAt": "2021-03-01T12:58:05.654Z"
+  },
+  {
+    "_id": "603ce4dd648fa1bbc89ca86d",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "SYNCR0N",
+    "damage": 16951856699039,
+    "createdAt": "2021-03-01T12:58:05.676Z"
+  },
+  {
+    "_id": "603ce4dd648fa1bbc89ca86e",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "SIZZIOUS",
+    "damage": 11301237799359,
+    "createdAt": "2021-03-01T12:58:05.697Z"
+  },
+  {
+    "_id": "603ce4dd648fa1bbc89ca86f",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "LASTNYGHT",
+    "damage": 11301237799359,
+    "createdAt": "2021-03-01T12:58:05.719Z"
+  },
+  {
+    "_id": "603ce4dd648fa1bbc89ca870",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "KARONIAN",
+    "damage": 10533006846082,
+    "createdAt": "2021-03-01T12:58:05.739Z"
+  },
+  {
+    "_id": "603ce4dd648fa1bbc89ca871",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "OMEGAOCTOPUS",
+    "damage": 10093656337049,
+    "createdAt": "2021-03-01T12:58:05.755Z"
+  },
+  {
+    "_id": "603ce4dd648fa1bbc89ca872",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "MEGQLORE",
+    "damage": 6938269230127,
+    "createdAt": "2021-03-01T12:58:05.779Z"
+  },
+  {
+    "_id": "603ce4dd648fa1bbc89ca873",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "YAKSHAZ",
+    "damage": 4625512820084,
+    "createdAt": "2021-03-01T12:58:05.796Z"
+  },
+  {
+    "_id": "603ce4dd648fa1bbc89ca874",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "GSM",
+    "damage": 3511002282026,
+    "createdAt": "2021-03-01T12:58:05.818Z"
+  },
+  {
+    "_id": "603ce4dd648fa1bbc89ca875",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "TAKINOSWEETI",
+    "damage": 1218603798569,
+    "createdAt": "2021-03-01T12:58:05.837Z"
+  },
+  {
+    "_id": "603ce4dd648fa1bbc89ca876",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "YUMITAKI",
+    "damage": 1218603798569,
+    "createdAt": "2021-03-01T12:58:05.855Z"
+  },
+  {
+    "_id": "603ce4dd648fa1bbc89ca877",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "YAV",
+    "damage": 956169474767,
+    "createdAt": "2021-03-01T12:58:05.874Z"
+  },
+  {
+    "_id": "603ce4dd648fa1bbc89ca878",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "01LANDER",
+    "damage": 0,
+    "createdAt": "2021-03-01T12:58:05.894Z"
+  },
+  {
+    "_id": "603ce56c648fa1bbc89ca92a",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "BAALROX",
+    "damage": 134520312241457,
+    "createdAt": "2021-03-01T13:00:27.966Z"
+  },
+  {
+    "_id": "603ce56c648fa1bbc89ca92b",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "HARLEY0",
+    "damage": 89680208160971,
+    "createdAt": "2021-03-01T13:00:28.097Z"
+  },
+  {
+    "_id": "603ce56c648fa1bbc89ca92c",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "CPTBREEZE",
+    "damage": 89680208160971,
+    "createdAt": "2021-03-01T13:00:28.122Z"
+  },
+  {
+    "_id": "603ce56c648fa1bbc89ca92d",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "HUCTOR",
+    "damage": 57201928056668,
+    "createdAt": "2021-03-01T13:00:28.191Z"
+  },
+  {
+    "_id": "603ce56c648fa1bbc89ca92e",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "HYTORIA",
+    "damage": 44369339815392,
+    "createdAt": "2021-03-01T13:00:28.235Z"
+  },
+  {
+    "_id": "603ce56c648fa1bbc89ca92f",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "RELEXATION",
+    "damage": 44369339815392,
+    "createdAt": "2021-03-01T13:00:28.255Z"
+  },
+  {
+    "_id": "603cecca648fa1bbc89caa14",
+    "statType": "class processor.models.statistics.DamageStatistic",
+    "name": "DRIZZZT-NEKRINOS",
+    "damage": 45495588254718,
+    "createdAt": "2021-03-01T13:31:54.458Z"
+  }
+]

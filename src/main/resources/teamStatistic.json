@@ -1,0 +1,192 @@
+[
+  {
+    "_id": "60379c198de6d55ce343a8bc",
+    "name": "CHASEINGSHEEPS",
+    "damage": 359516163896547,
+    "createdAt": "2021-02-25T12:46:17.072Z",
+    "statType": "class processor.models.statistics.TeamDamageStatistic",
+    "members": [
+      "BUFFHEAD",
+      "CHASENIGHT",
+      "CHASEDAY"
+    ]
+  },
+  {
+    "_id": "603ba274648fa1bbc89c83ce",
+    "name": "HUSKIES",
+    "damage": 400413496396676,
+    "createdAt": "2021-02-28T14:02:28.581Z",
+    "statType": "class processor.models.statistics.TeamDamageStatistic",
+    "members": [
+      "NEFIRE",
+      "LSUCREL",
+      "HU5K"
+    ]
+  },
+  {
+    "_id": "603bc4a2648fa1bbc89c87af",
+    "name": "JASMINE",
+    "damage": 288573116591038,
+    "createdAt": "2021-02-28T16:28:18.927Z",
+    "statType": "class processor.models.statistics.TeamDamageStatistic",
+    "members": [
+      "KURU252",
+      "FAINTSMILE",
+      "POTPOURRI"
+    ]
+  },
+  {
+    "_id": "603be5d5648fa1bbc89c8b76",
+    "name": "ACE",
+    "damage": 400413496396676,
+    "createdAt": "2021-02-28T18:49:57.375Z",
+    "statType": "class processor.models.statistics.TeamDamageStatistic",
+    "members": [
+      "SHATAHL",
+      "FLUFFYWOLF",
+      "YOPII"
+    ]
+  },
+  {
+    "_id": "603c1cc8648fa1bbc89c91ce",
+    "name": "AKATSUKI",
+    "damage": 200213560278771,
+    "createdAt": "2021-02-28T22:44:24.786Z",
+    "statType": "class processor.models.statistics.TeamDamageStatistic",
+    "members": [
+      "LORIYAGAMI",
+      "COFFEECUPZ",
+      "RADIAL"
+    ]
+  },
+  {
+    "_id": "603ced4e648fa1bbc89caa5b",
+    "name": "SNOW_WHITE",
+    "damage": 15000178602875,
+    "createdAt": "2021-03-01T13:34:06.432Z",
+    "statType": "class processor.models.statistics.TeamDamageStatistic",
+    "members": [
+      "KARONIAN",
+      "GSM",
+      "YAV"
+    ]
+  },
+  {
+    "_id": "603ced4e648fa1bbc89caa5c",
+    "name": "THE_LADS",
+    "damage": 39554332297757,
+    "createdAt": "2021-03-01T13:34:06.463Z",
+    "statType": "class processor.models.statistics.TeamDamageStatistic",
+    "members": [
+      "SYNCR0N",
+      "SIZZIOUS",
+      "LASTNYGHT"
+    ]
+  },
+  {
+    "_id": "603ced4e648fa1bbc89caa5d",
+    "name": "KILLSHOT",
+    "damage": 313880728563399,
+    "createdAt": "2021-03-01T13:34:06.476Z",
+    "statType": "class processor.models.statistics.TeamDamageStatistic",
+    "members": [
+      "HARLEY0",
+      "CPTBREEZE",
+      "BAALROX"
+    ]
+  },
+  {
+    "_id": "603ced4e648fa1bbc89caa5e",
+    "name": "BIGBRAIN",
+    "damage": 400413496396676,
+    "createdAt": "2021-03-01T14:09:00.724Z",
+    "statType": "class processor.models.statistics.TeamDamageStatistic",
+    "members": [
+      "NELLAN",
+      "HENSHIN321",
+      "HUCTOR"
+    ]
+  },
+  {
+    "_id": "603ced4e648fa1bbc89caa5f",
+    "name": "MULAN",
+    "damage": 2437207597138,
+    "createdAt": "2021-03-01T13:34:06.552Z",
+    "statType": "class processor.models.statistics.TeamDamageStatistic",
+    "members": [
+      "TAKINOSWEETI",
+      "YUMITAKI"
+    ]
+  },
+  {
+    "_id": "603ced4e648fa1bbc89caa60",
+    "name": "RAPUNZEL",
+    "damage": 55535415980486,
+    "createdAt": "2021-03-01T13:34:06.578Z",
+    "statType": "class processor.models.statistics.TeamDamageStatistic",
+    "members": [
+      "NOTAXEL",
+      "CHAYSTAR"
+    ]
+  },
+  {
+    "_id": "603ced4e648fa1bbc89caa61",
+    "name": "VESPERIA",
+    "damage": 106156372594342,
+    "createdAt": "2021-03-01T13:34:06.590Z",
+    "statType": "class processor.models.statistics.TeamDamageStatistic",
+    "members": [
+      "MIKASHISAN",
+      "KIRA6996",
+      "DRIZZZT-NEKRINOS"
+    ]
+  },
+  {
+    "_id": "603ced4e648fa1bbc89caa62",
+    "name": "MERIDA",
+    "damage": 70689311870191,
+    "createdAt": "2021-03-01T13:34:06.603Z",
+    "statType": "class processor.models.statistics.TeamDamageStatistic",
+    "members": [
+      "ARVIANNE",
+      "DOYOU",
+      "HAVENITE"
+    ]
+  },
+  {
+    "_id": "603ced4e648fa1bbc89caa63",
+    "name": "BELLE",
+    "damage": 119728310080733,
+    "createdAt": "2021-03-01T13:34:06.617Z",
+    "statType": "class processor.models.statistics.TeamDamageStatistic",
+    "members": [
+      "HYTORIA",
+      "RELEXATION",
+      "NEKRINOS"
+    ]
+  },
+  {
+    "_id": "603ced4e648fa1bbc89caa64",
+    "name": "MOANA",
+    "damage": 70655594359351,
+    "createdAt": "2021-03-01T13:34:06.631Z",
+    "statType": "class processor.models.statistics.TeamDamageStatistic",
+    "members": [
+      "THUMPER",
+      "BITRE",
+      "OMEGAOCTOPUS"
+    ]
+  },
+  {
+    "_id": "603ced5e648fa1bbc89caa6c",
+    "name": "ARIEL",
+    "damage": 11563782050211,
+    "createdAt": "2021-03-01T13:34:22.917Z",
+    "statType": "class processor.models.statistics.TeamDamageStatistic",
+    "members": [
+      "YAKSHAZ",
+      "01LANDER",
+      "MEGQLORE"
+    ]
+  }
+]

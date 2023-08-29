@@ -1,0 +1,10 @@
+.idea
+build
+.gradle
+docker-compose.yaml
+src/main/resources/config.json
+src/main/resources/credentials.json
+volume_cortes
+src/main/resources/client_secret.json
+startup.sh
+Dockerfile
